@@ -2,7 +2,7 @@
 
 This project is a web application that uses Google PaLM API with Gradio to generate detailed explanations for Python code snippets. The app is designed to break down the code into step-by-step explanations, providing users with a better understanding of how the code works.
 
- [Use it from here](https://88998287f2e06afa29.gradio.live/)
+ [Use it from here](https://6a45d4f193d35aeb36.gradio.live)
 
 ![](https://github.com/YashsTiwari/Python-Code-Explainer-App/blob/main/Python-code-explainer.png)
 
